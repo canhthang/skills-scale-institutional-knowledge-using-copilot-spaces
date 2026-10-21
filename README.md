@@ -1,28 +1,37 @@
-# OctoAcme Project Management Docs
+<div align="center">
 
-This repository contains the core project management process documents used by OctoAcme to plan, execute, communicate, and improve work.
+# 🎉 Congratulations canhthang! 🎉
 
-## Project management process summary
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-OctoAcme follows a simple lifecycle for initiatives that keeps work aligned to business value and delivery discipline. The process begins with initiation, where the team defines the problem, stakeholders, goals, and go/no-go criteria. Once there is alignment, planning turns the idea into a backlog with milestones, dependencies, estimates, and a delivery plan. Execution then focuses on day-to-day delivery using standups, weekly reviews, demos, and a visible project board so progress, blockers, and risks are surfaced early.
+### 🌟 You've successfully completed the exercise! 🌟
 
-A core part of the operating model is the clear separation of roles and responsibilities. Developers build and test functionality, Product Managers define outcomes and backlog priorities, Project Managers coordinate schedules and communications, and stakeholders provide input and approvals. These personas collaborate around a shared set of artifacts such as the project charter, backlog, definition of done, risk register, and retrospective notes, which help keep the team aligned across planning, delivery, and review.
+## 🚀 Share Your Success!
 
-Communication is structured and recurring rather than ad hoc. OctoAcme uses weekly PM/Product coordination, delivery team standups, milestone demos, and regular stakeholder updates to maintain transparency. Risks and dependencies are tracked in a risk register and escalated through clear pathways when they become blockers. Quality is managed through CI, security scanning, unit and integration tests, smoke tests for critical flows, and manual QA when needed before release. Release work includes pre-deployment verification, staged checks, post-deploy validation, and rollback planning for critical failures.
+**Show off your new skills and inspire others!**
 
-After each sprint, milestone, or incident, the team reviews what went well, what could improve, and which actions need follow-up. This retrospective practice turns lessons learned into action items that are tracked in the backlog or project board. Together, these elements create a consistent project management model centered on stakeholder alignment, measurable outcomes, clear ownership, and continuous improvement.
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fcanhthang%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fcanhthang%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fcanhthang%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-## Process documents
+### 🎯 What's Next?
 
-- [OctoAcme Project Management Overview](octoacme-project-management-overview.md)
-- [Project Initiation Guide](octoacme-project-initiation.md)
-- [Project Planning](octoacme-project-planning.md)
-- [Execution & Tracking](octoacme-execution-and-tracking.md)
-- [Risk Management & Communication](octoacme-risks-and-communication.md)
-- [Release & Deployment Guide](octoacme-release-and-deployment.md)
-- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Personas](octoacme-roles-and-personas.md)
+**Keep the momentum going!**
 
-## How to use this repo
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/canhthang/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-Use the overview as the entry point, then follow the relevant process guide for initiation, planning, execution, risk management, release, or team roles. These documents are meant to provide a consistent, shareable framework for how OctoAcme runs projects and improves delivery over time.
+*There's no better way to learn than building things!* 🚀
+
+</div>
+
+---
+
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
